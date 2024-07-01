@@ -1,6 +1,6 @@
-# CoQA_Question_Anwering_with_BERT
+# CoQA_Question_Answering_with_BERT
 
-CoQA Question Answeing using fine-tuned BERT, PyTorch and Hugging Face Transformers.
+CoQA Question Answering using fine-tuned BERT, PyTorch and Hugging Face Transformers.
 
 Dataset Information:
 
